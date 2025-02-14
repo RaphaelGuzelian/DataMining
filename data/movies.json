@@ -1,0 +1,110 @@
+[
+    {
+        "popularity":18.12,
+        "title":"The Sound of Music",
+        "release_period":"60s",
+        "genres":"Drama",
+        "original_language":"en",
+        "overview":"In the years before the Second World War, a tomboyish postulant at an Austrian abbey is hired as a governess in the home of a widowed naval captain with seven children, and brings a new love of life and music into the home.",
+        "couleur_dominante_du_poster":"whitesmoke"
+    },
+    {
+        "popularity":15.034,
+        "title":"The Treasure of the Sierra Madre",
+        "release_period":"40s",
+        "genres":"Adventure",
+        "original_language":"en",
+        "overview":"Fred C. Dobbs and Bob Curtin, both down on their luck in Tampico, Mexico in 1925, meet up with a grizzled prospector named Howard and decide to join with him in search of gold in the wilds of central Mexico. Through enormous difficulties, they eventually succeed in finding gold, but bandits, the elements, and most especially greed threaten to turn their success into disaster.",
+        "couleur_dominante_du_poster":"darkslategray"
+    },
+    {
+        "popularity":10.239,
+        "title":"The Wild Bunch",
+        "release_period":"60s",
+        "genres":"Adventure",
+        "original_language":"en",
+        "overview":"An aging group of outlaws look for one last big score as the \"traditional\" American West is disappearing around them.",
+        "couleur_dominante_du_poster":"black"
+    },
+    {
+        "popularity":49.999,
+        "title":"The Wizard of Oz",
+        "release_period":"30s",
+        "genres":"Adventure",
+        "original_language":"en",
+        "overview":"Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.",
+        "couleur_dominante_du_poster":"seagreen"
+    },
+    {
+        "popularity":158.536,
+        "title":"Titanic",
+        "release_period":"90s",
+        "genres":"Drama",
+        "original_language":"en",
+        "overview":"101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+        "couleur_dominante_du_poster":"black"
+    },
+    {
+        "popularity":14.216,
+        "title":"Tootsie",
+        "release_period":"80s",
+        "genres":"Comedy",
+        "original_language":"en",
+        "overview":"When struggling, out of work actor Michael Dorsey secretly adopts a female alter ego - Dorothy Michaels - in order to land a part in a daytime drama, he unwittingly becomes a feminist icon and ends up in a romantic pickle.",
+        "couleur_dominante_du_poster":"rosybrown"
+    },
+    {
+        "popularity":116.269,
+        "title":"Toy Story",
+        "release_period":"90s",
+        "genres":"Animation",
+        "original_language":"en",
+        "overview":"Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+        "couleur_dominante_du_poster":"sienna"
+    },
+    {
+        "popularity":15.814,
+        "title":"To Kill a Mockingbird",
+        "release_period":"60s",
+        "genres":"Drama",
+        "original_language":"en",
+        "overview":"Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.",
+        "couleur_dominante_du_poster":"whitesmoke"
+    },
+    {
+        "popularity":31.418,
+        "title":"Unforgiven",
+        "release_period":"90s",
+        "genres":"Western",
+        "original_language":"en",
+        "overview":"William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.",
+        "couleur_dominante_du_poster":"black"
+    },
+    {
+        "popularity":29.121,
+        "title":"Vertigo",
+        "release_period":"50s",
+        "genres":"Mystery",
+        "original_language":"en",
+        "overview":"A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
+        "couleur_dominante_du_poster":"chocolate"
+    },
+    {
+        "popularity":12.418,
+        "title":"West Side Story",
+        "release_period":"60s",
+        "genres":"Crime",
+        "original_language":"en",
+        "overview":"In the slums of the upper West Side of Manhattan, New York, a gang of Polish-American teenagers called the Jets compete with a rival gang of recently immigrated Puerto Ricans, the Sharks, to \"own\" the neighborhood streets. Tensions are high between the gangs but two romantics, one from each gang, fall in love leading to tragedy.",
+        "couleur_dominante_du_poster":"orangered"
+    },
+    {
+        "popularity":7.707,
+        "title":"Yankee Doodle Dandy",
+        "release_period":"40s",
+        "genres":"Drama",
+        "original_language":"en",
+        "overview":"A film of the life of the renowned musical composer, playwright, actor, dancer and singer George M. Cohan.",
+        "couleur_dominante_du_poster":"seashell"
+    }
+]
